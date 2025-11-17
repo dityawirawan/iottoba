@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "844136140165",
+    "firebase_url": "https://iottoba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iottoba",
+    "storage_bucket": "iottoba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844136140165:android:c53fc058fc15333cbe48ec",
+        "android_client_info": {
+          "package_name": "com.example.iottoba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3cHAE5xZNFTwMpz_2Hi38EDhk6kRqNgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
